@@ -1,0 +1,13 @@
+## Tip of the Day
+
+Provides interview questions using python. 
+
+Installation
+
+visit --> https://pypi.org/ to install the necessary package 
+
+mention the required package and copy the latest one
+eg-- tkinter ---> pip install Addons-Tkinter
+
+You can further add question based on other concept by visiting --> https://www.interviewbit.com/
+and choosing the required topic
