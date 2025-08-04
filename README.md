@@ -2,6 +2,7 @@
 
 Welcome to my Python Projects Repository! 🚀  
 This repository is a collection of Python projects that I’ve built and enhanced over time — featuring improvements in functionality, structure, user interface, and branding (logos, themes, etc.).
+
 🛠 **Note:** This repository is a continuous work in progress. More projects will be added over time, and existing ones will receive regular updates, feature enhancements, and UI improvements.
 
 ---
