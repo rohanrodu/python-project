@@ -1,0 +1,11 @@
+# Human Pose Detection 🧍
+
+This project detects human body keypoints (like nose, shoulders, elbows, etc.) from images, videos, or webcam using a pose estimation model.
+
+## Features
+
+- Detects body keypoints
+- Works with image, video, or webcam
+- Easy to run with Python
+
+Libraries used - cv2, mediapipe, threading, time, math, os, csv, tkinter, PIL, ImageTk
