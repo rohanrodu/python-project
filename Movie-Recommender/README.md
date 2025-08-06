@@ -27,4 +27,4 @@ A beginner-friendly Python application that suggests similar movies based on the
 ---
 
 🔗 Resources
-TMDb Dataset: Kaggle - TMDb 5000 Movies Dataset or you can here only
+TMDb Dataset: Kaggle - TMDb 5000 Movies Dataset or you can find it here only
