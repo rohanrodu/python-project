@@ -35,7 +35,8 @@ Here are a few projects included (check folders for full list):
 
 - 🧍 Human Pose Detection 
 - 💡 Tip of the Day Generator 
-- 🧑‍💼 Attendance Tracker 
+- 🧑‍💼 Attendance Tracker
+- 🎬 Movie Recommendation
 
 ---
 
